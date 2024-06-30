@@ -67,5 +67,5 @@ The Student Portal project aims to provide a platform for students and teachers 
 3. **Check details**:
     - Students can log in to check their details.
 
-## Project Structure
+
 
