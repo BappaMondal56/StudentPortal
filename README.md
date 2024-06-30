@@ -1,5 +1,3 @@
-# StudentPortal
-
 # Student Portal
 
 This repository contains a student portal project developed using JSP, Servlet, JDBC, Java, and Bootstrap. The portal allows students and teachers to sign in and sign up, and students can check their details. Please note that this project is still in development and is not yet complete.
